@@ -1,0 +1,3 @@
+ATTACKER CONTROLLED FILE
+Delivered into the victim working tree with zero dialogs by
+x-github-client://openrepo/<url>?pr=N
